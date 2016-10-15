@@ -11,6 +11,6 @@ function suma(a,b){
     }
 }
 
-
-
+suma(2,2,2,2,2);
+suma(2,2);
 suma(18,2,4);
