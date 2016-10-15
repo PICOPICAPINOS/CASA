@@ -10,7 +10,7 @@ function suma(a,b){
     console.log(result);
     }
 }
-
+// TODO: Anadirle la parte que verifica que el valor de entrada no es un numero.
 suma(2,2,2,2,2);
 suma(2,2);
 suma(18,2,4);
